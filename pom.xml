@@ -32,7 +32,7 @@
   </licenses>
   <scm>
     <connection>scm:git:git://github.com/openengsb/openengsb-wrapped-csharp-codeplex.newton.json.git</connection>
-    <developerConnection>scm:git:github.com/openengsb/openengsb-wrapped-csharp-codeplex.newton.json.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:openengsb/openengsb-wrapped-csharp-codeplex.newton.json.git</developerConnection>
     <url>https://github.com/openengsb/openengsb-wrapped-csharp-codeplex.newton.json</url>
   </scm>
   <modelVersion>4.0.0</modelVersion>
