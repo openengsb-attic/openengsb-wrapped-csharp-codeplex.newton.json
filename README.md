@@ -1,0 +1,1 @@
+Wrapper for http://json.codeplex.com/ to provide it via m2 central
