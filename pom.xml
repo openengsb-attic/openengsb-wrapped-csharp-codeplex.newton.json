@@ -37,7 +37,7 @@
   </scm>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.wrapped.csharp</groupId>
-  <artifactId>codeplex.newton.json</artifactId>
+  <artifactId>Newtonsoft.Json</artifactId>
   <version>5.0_1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <build>
