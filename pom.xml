@@ -26,7 +26,7 @@
 
   <groupId>org.openengsb.wrapped.csharp</groupId>
   <artifactId>Newtonsoft.Json</artifactId>
-  <version>5.0_3-SNAPSHOT</version>
+  <version>4.5.9_1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>OpenEngSB :: Maven Wrapped CSharp DLL :: codeplex.Newton.Json</name>
